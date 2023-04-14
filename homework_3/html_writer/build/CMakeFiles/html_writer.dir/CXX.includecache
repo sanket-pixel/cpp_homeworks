@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/html_writer.hpp
+string
+-
+
+/home/motor-ai/workstation/cpp_homeworks/homework_3/html_writer/src/html_writer.cpp
+iostream
+-
+html_writer.hpp
+-
+
