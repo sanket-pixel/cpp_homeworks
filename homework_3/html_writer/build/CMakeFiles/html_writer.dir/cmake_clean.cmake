@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/html_writer.dir/src/html_writer.cpp.o"
-  "html_writer"
-  "html_writer.pdb"
+  "libhtml_writer.pdb"
+  "libhtml_writer.a"
 )
 
 # Per-language clean rules from dependency scanning.

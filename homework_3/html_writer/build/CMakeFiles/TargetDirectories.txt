@@ -1,3 +1,3 @@
-/home/motor-ai/workstation/cpp_homeworks/homework_3/html_writer/build/CMakeFiles/rebuild_cache.dir
-/home/motor-ai/workstation/cpp_homeworks/homework_3/html_writer/build/CMakeFiles/edit_cache.dir
-/home/motor-ai/workstation/cpp_homeworks/homework_3/html_writer/build/CMakeFiles/html_writer.dir
+/home/sanket/Desktop/Projects/cpp_course/cpp_homeworks/homework_3/html_writer/build/CMakeFiles/rebuild_cache.dir
+/home/sanket/Desktop/Projects/cpp_course/cpp_homeworks/homework_3/html_writer/build/CMakeFiles/html_writer.dir
+/home/sanket/Desktop/Projects/cpp_course/cpp_homeworks/homework_3/html_writer/build/CMakeFiles/edit_cache.dir

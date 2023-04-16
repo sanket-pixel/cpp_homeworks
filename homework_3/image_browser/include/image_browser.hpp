@@ -38,6 +38,7 @@ void AddFullRow(const ImageRow& row, bool first_row = false);
  */
 void CreateImageBrowser(const std::string& title, const std::string& stylesheet,
                         const std::vector<ImageRow>& rows);
+                        
 
 }  // namespace image_browser
 

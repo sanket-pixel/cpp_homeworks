@@ -72,6 +72,12 @@ void CloseRow();
  */
 void AddImage(const std::string& img_path, float score, bool highlight = false);
 
+std::string getFileExtension(const std::string& img_path);
+
+std::string getFileName(const std::string& img_path);
+
+
 }  // namespace html_writer
+
 
 #endif  // HTML_WRITER_H_

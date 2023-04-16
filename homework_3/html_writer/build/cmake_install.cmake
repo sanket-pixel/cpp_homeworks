@@ -1,4 +1,4 @@
-# Install script for directory: /home/motor-ai/workstation/cpp_homeworks/homework_3/html_writer
+# Install script for directory: /home/sanket/Desktop/Projects/cpp_course/cpp_homeworks/homework_3/html_writer
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/motor-ai/workstation/cpp_homeworks/homework_3/html_writer/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/sanket/Desktop/Projects/cpp_course/cpp_homeworks/homework_3/html_writer/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

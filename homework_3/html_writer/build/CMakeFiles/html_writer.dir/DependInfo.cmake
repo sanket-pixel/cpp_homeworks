@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/motor-ai/workstation/cpp_homeworks/homework_3/html_writer/src/html_writer.cpp" "/home/motor-ai/workstation/cpp_homeworks/homework_3/html_writer/build/CMakeFiles/html_writer.dir/src/html_writer.cpp.o"
+  "/home/sanket/Desktop/Projects/cpp_course/cpp_homeworks/homework_3/html_writer/src/html_writer.cpp" "/home/sanket/Desktop/Projects/cpp_course/cpp_homeworks/homework_3/html_writer/build/CMakeFiles/html_writer.dir/src/html_writer.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

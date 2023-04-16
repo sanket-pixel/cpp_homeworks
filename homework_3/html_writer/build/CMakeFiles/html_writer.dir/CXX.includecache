@@ -10,11 +10,17 @@
 string
 -
 
-/home/motor-ai/workstation/cpp_homeworks/homework_3/html_writer/src/html_writer.cpp
+/home/sanket/Desktop/Projects/cpp_course/cpp_homeworks/homework_3/html_writer/src/html_writer.cpp
 iostream
 -
 html_writer.hpp
 -
 string
+-
+sstream
+-
+vector
+-
+iomanip
 -
 
