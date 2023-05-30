@@ -14,6 +14,19 @@ namespace ipb{
         std::string const name();
 
         std::vector<T> const vector();
+
+        size_t const size();
+
+        bool const empty();
+
+        void const reserve(size_t s);
+
+        void const resize(size_t s);
+
+        size_t const capacity();
+
+
     };
+    template struct named_vector<float>;
 }
 #endif
