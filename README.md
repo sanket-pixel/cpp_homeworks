@@ -1,2 +1,2 @@
 # cpp_homeworks
-This repo consists of all CPP homeworki
+This repo consists of all CPP homeworkdrg
