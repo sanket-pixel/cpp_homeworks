@@ -17,6 +17,24 @@ namespace ipb {
         std::vector<T> const vector(){
             return vec;
         }
+
+        size_t const size(){
+            return vec.size() + vec_name.size();
+        }
+
+        void const resize(int num_elem){
+            vec.resize(num_elem);
+        }
+
+        void const reserve(int num_elem){
+            vec.reserve(num_elem);
+        }
+
+        size_t const capacity(){
+            return vec.capacity();
+        }
+
+
     };
 }
 
