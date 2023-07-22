@@ -1,9 +1,26 @@
-#include <homework_4.hpp>
+#include <include/homework_4.hpp>
 #include <iostream>
+int main() {
+    ipb::named_vector<int> intVector;
+    intVector.vec_name = "Integer Vector";
+    intVector.vec = {1, 2, 3, 4, 5};
 
-int main(){
-    ipb::named_vector<float> my_vector;
-    my_vector.vec.push_back(0.1);
-    my_vector.vec_name = "first_vec";
-    std::cout << "Name of my vector" << my_vector.name() << std::endl;
+    ipb::named_vector<double> doubleVector;
+    doubleVector.vec_name = "Double Vector";
+    doubleVector.vec = {1.1, 2.2, 3.3, 4.4, 5.5};
+
+    // You can access the members of the struct like this:
+    std::cout << intVector.name() << std::endl;
+    for (int val : intVector.vector()) {
+        std::cout << val << " ";
+    }
+    std::cout << std::endl;
+
+    std::cout << doubleVector.name() << std::endl;
+    for (double val : doubleVector.vector()) {
+        std::cout << val << " ";
+    }
+    std::cout << std::endl;
+
+    return 0;
 }
