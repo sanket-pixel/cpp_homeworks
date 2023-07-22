@@ -14,7 +14,7 @@ namespace ipb {
             return vec_name;
         }
 
-        std::vector<T> const vector() const {
+        std::vector<T> const vector(){
             return vec;
         }
     };

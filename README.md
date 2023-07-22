@@ -1,2 +1,2 @@
 # cpp_homeworks
-Test commit on cpp
+This repo consists of all CPP homeworkdrg

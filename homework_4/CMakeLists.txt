@@ -4,14 +4,6 @@ project(your_project_name)
 # Set C++ standard (change to your desired version if needed)
 set(CMAKE_CXX_STANDARD 14)
 
-# Add your header and source files
-# set(HEADER_FILES
-#     include/homework_4.hpp
-# )
-
-# set(SOURCE_FILES
-#     src/homework_4.cpp
-# )
 include_directories(include)
 
 add_library(homework_4 src/homework_4.cpp include/homework_4.hpp)
